@@ -1,0 +1,213 @@
+2025-02-04 20:24:09,323-db_helper-INFO-fetch_expenses_for_date called with 2024-08-03
+2025-02-04 20:24:09,808-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-04 20:25:40,127-db_helper-INFO-fetch_expenses_for_date called with 2024-08-03
+2025-02-04 20:25:40,265-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-04 21:01:17,646-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-04 21:03:03,648-db_helper-INFO-delete_expenses_for_date called with 2024-08-28
+2025-02-04 21:03:03,720-db_helper-INFO-insert_expenses_for_date called with date:2024-08-28,amount:23.0,category:Shopping,notes:Bought a mercrdez car
+2025-02-04 23:39:46,266-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-04 23:53:00,797-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-04 23:54:08,248-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-04 23:55:25,841-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-04 23:56:48,618-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 00:00:31,345-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 00:08:55,877-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 00:10:29,426-db_helper-INFO-fetch_expenses_for_date called with 2024-08-02
+2025-02-05 00:23:23,869-db_helper-INFO-fetch_expenses_for_date called with 2024-08-02
+2025-02-05 00:23:31,779-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 00:25:21,154-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 00:25:23,275-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 00:27:50,548-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 00:28:19,487-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 00:28:25,060-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 00:34:56,656-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 00:35:05,248-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 00:35:07,305-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 00:37:19,250-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 00:37:19,264-db_helper-INFO-insert_expenses_for_date called with date:2024-08-07,amount:23.0,category:Shopping,notes:Bought a mercrdez car
+2025-02-05 01:23:30,476-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:23:59,947-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 01:24:05,316-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:25:22,000-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:25:24,099-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 01:35:49,880-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:36:21,627-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:36:23,779-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 01:38:36,774-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 01:40:00,658-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 01:40:27,724-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:40:38,791-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:42:22,467-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:42:24,542-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 01:44:46,867-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:44:53,507-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 01:44:55,585-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 01:56:20,864-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 01:56:49,542-db_helper-INFO-fetch_expenses_for_date called with 2024-08-02
+2025-02-05 01:59:27,546-db_helper-INFO-fetch_expenses_for_date called with 2024-08-02
+2025-02-05 01:59:33,739-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:00:10,542-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:00:12,623-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 02:02:42,882-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:02:51,232-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:02:59,557-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 02:03:04,483-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:04:02,820-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:08:21,246-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:08:47,241-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 02:08:59,419-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:09:18,650-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:14:29,537-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:14:36,270-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 02:14:40,654-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:15:37,288-db_helper-INFO-fetch_expenses_for_date called with 2024-08-07
+2025-02-05 02:15:39,365-db_helper-INFO-delete_expenses_for_date called with 2024-08-07
+2025-02-05 02:15:39,389-db_helper-INFO-insert_expenses_for_date called with date:2024-08-07,amount:100.0,category:Shopping,notes:brought oil
+2025-02-05 02:15:39,437-db_helper-INFO-insert_expenses_for_date called with date:2024-08-07,amount:20.0,category:Shopping,notes:brought pen
+2025-02-05 02:15:39,458-db_helper-INFO-insert_expenses_for_date called with date:2024-08-07,amount:20.0,category:Food,notes:ate panipuri
+2025-02-05 02:34:32,112-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 02:45:40,257-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 02:45:45,417-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 02:45:52,095-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 04:02:34,769-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 04:16:24,801-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:16:33,630-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:23:24,902-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:23:41,143-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:23:43,222-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 04:31:08,271-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:31:12,631-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:31:14,727-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 04:33:15,828-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:33:20,112-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:33:22,184-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 04:41:15,185-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:41:19,722-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 04:41:21,811-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 06:44:18,824-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 06:45:17,690-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 06:45:59,110-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 06:46:41,834-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 06:48:07,352-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 06:55:09,357-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 06:55:59,632-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 06:58:47,379-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:01:36,595-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:03:40,941-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:04:24,966-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:12:53,404-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:13:39,345-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:15:28,317-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:17:56,383-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:29:59,037-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:33:08,334-db_helper-INFO-fetch_expenses_summary_by_month called with expense by month
+2025-02-05 07:52:51,838-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 08:40:21,271-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 17:51:47,398-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 17:54:02,882-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:11:54,918-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:12:03,918-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:12:06,010-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 20:13:02,761-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:13:18,121-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:16:06,331-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:18:22,003-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:24:03,735-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:24:05,817-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:25:28,730-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:25:30,802-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:27:08,576-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:27:10,671-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:30:28,162-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:30:30,257-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 20:30:32,350-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:31:24,736-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:31:26,830-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:32:07,769-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:32:09,853-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:37:10,881-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:37:12,955-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:41:16,834-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:41:18,910-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 20:41:20,978-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:43:18,887-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 20:54:30,275-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:54:32,404-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 20:57:21,710-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 20:57:23,759-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:00:36,976-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:00:39,043-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:01:23,764-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:01:25,824-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:02:24,264-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:02:26,346-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:07:47,213-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:07:49,288-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:23:53,183-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:23:55,485-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:24:28,761-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:24:30,842-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:30:53,555-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:30:55,640-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:37:34,478-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:37:36,548-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:38:34,694-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:38:36,762-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:39:10,528-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:39:12,604-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:46:18,000-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:46:20,087-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:46:58,287-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:47:00,360-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 21:49:02,347-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 21:49:04,426-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:00:56,593-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:00:58,953-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:01:38,795-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:01:40,864-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:02:50,171-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:02:52,231-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:04:09,877-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:04:11,955-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:04:29,025-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:04:31,104-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:06:59,185-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:07:01,252-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:07:19,910-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:07:22,008-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 22:07:24,107-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:18:19,468-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:18:21,831-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:21:31,642-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:21:33,701-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:27:14,822-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:27:16,918-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:29:17,911-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:29:19,985-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:31:47,441-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:31:49,508-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:32:19,483-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:32:21,561-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:33:28,011-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:33:30,083-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:34:15,542-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:34:17,609-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:36:41,305-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:36:43,379-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:40:00,363-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:40:02,426-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:40:43,955-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:40:46,043-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:41:48,834-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:41:50,913-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 22:41:53,011-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:44:10,004-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:44:12,081-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:44:16,733-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:44:18,796-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 22:44:20,906-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:52:16,224-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:52:18,301-db_helper-INFO-fetch_expense_summary_by_months
+2025-02-05 22:52:22,644-db_helper-INFO-fetch_expenses_for_date called with 2024-08-01
+2025-02-05 22:52:24,711-db_helper-INFO-fetch_expenses_summary called with start date:2024-08-01,end_date:2024-08-05
+2025-02-05 22:52:26,763-db_helper-INFO-fetch_expense_summary_by_months
